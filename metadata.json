@@ -1,0 +1,6 @@
+{
+  "name": "Idle Legend Bang Bang RPG: Everybody Can Be A Pro",
+  "description": "An engaging, high-fidelity 3D incremental RPG auto-battler featuring legendary heroes and dynamic boss mechanics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
